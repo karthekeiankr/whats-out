@@ -1,1 +1,1 @@
-# whats-out
+# whats-out is  an expense tracking website
